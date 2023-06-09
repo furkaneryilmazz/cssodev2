@@ -1,0 +1,66 @@
+
+
+.container {
+    height: 225px;
+    text-align: center;
+    background-color: white;
+}
+.card {
+    margin-right: 5px;
+    text-align: center;
+    height: 100px;
+    width: 365px;
+    background-color: aqua;
+    display: inline-block;
+    margin-top: auto;
+}
+
+.abc {
+    text-align: center;
+    
+}
+
+.content {
+    height: 180px;
+    background-color: aqua;
+}
+
+.top-bar {
+    height: 120px;
+    background-color: darkgray;
+}
+
+
+.box {
+    height: 30px;
+    width: 450px;
+    background-color: white;
+    margin: -10px auto 0 auto;
+    border-radius: 4px;
+    box-shadow:0 0 2px 1px ;
+    
+}
+
+.s-box {
+    margin-left: auto;
+    margin-right: auto;
+    height: 25px;
+    width: 120px;
+    background-color: white;
+    box-shadow:0 0 2px 1px ;
+    display: inline-block;
+    margin-top: 5px;
+
+    
+}
+.ss-box {
+    height: 25px;
+    width: 90px;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    
+}
+
